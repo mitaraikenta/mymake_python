@@ -4,9 +4,9 @@ from selenium.webdriver.common.by import By
 import keyboard
 import sys
 #変数USERに学籍番号を入れてね
-USER = 'ohs90704'
+USER = ''
 #変数PASSにパスワードを入れてね
-PASS = 'Kenta0325'
+PASS = ''
 driver = webdriver.Chrome(executable_path="C:\chromedriver")
 driver = webdriver.Chrome()
 
